@@ -8,7 +8,8 @@
 ### Connect with me:
 
 [<img align="left" alt="anandapadmanabhan-varakil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/anandapadmanabhan-varakil/)
-<img align="left" alt="ananddoesembed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />(https://www.instagram.com/anandapadmanabhanvt/)
+[<img align="left" alt="ananddoesembed | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/anandapadmanabhanvt/)
+
 
 ### Languages and Tools:
 
