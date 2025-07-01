@@ -4,6 +4,7 @@
    - 🌠 I’m currently learning everything 🤣
    - 👯 I’m looking to collaborate 
    - 🤵 About me: I love to 🏋️ lift and 🐱‍💻 code
+## 🤝 Contributing
 
 ### Connect with me:
 
